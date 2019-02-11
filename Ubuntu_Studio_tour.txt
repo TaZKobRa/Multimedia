@@ -1,0 +1,2 @@
+Ubuntu Studio is an operating system based on Linux. It is specifically built to facilitate users in creation of some form of art, be it audio, video, graphics or something else. A minor updated format is regularly uploaded every 6 months, with major updates appearing every 2 years. It is an officially recognized version of Ubuntu, and is supported by the company Canonical Ltd. It is free to download, use, modify, and redistribute modified versions.
+Ubuntu Studio has multiple creative software packages available for all kinds of creation. Audio softwares include JACK, Ardour
