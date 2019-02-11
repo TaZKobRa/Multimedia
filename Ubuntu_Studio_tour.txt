@@ -1,3 +1,5 @@
 Ubuntu Studio is an operating system based on Linux. It is specifically built to facilitate users in creation of some form of art, be it audio, video, graphics or something else. A minor updated format is regularly uploaded every 6 months, with major updates appearing every 2 years. It is an officially recognized version of Ubuntu, and is supported by the company Canonical Ltd. It is free to download, use, modify, and redistribute modified versions.
 
 Amazon Kindle is a e-reader, which is a device that can access electronic publication files from the Kindle Store. It has many versions like, Kindle Paperweight, Kindle Voyage, Kindle Oasis. Some other popular E-reader devices are Barnes & Noble's Nook, Nook GlowLight, Kobo's Kobo Touch, Kobo Aura, etc.
+
+A sound recording studio is outfitted with multiple sets of gear, most of which are instruments to create sound and a number of recording gear including synthesizers and microphones. MIDI devices are used to interface between musical intruments and computers.
