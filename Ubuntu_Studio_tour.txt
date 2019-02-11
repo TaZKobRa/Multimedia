@@ -3,3 +3,5 @@ Ubuntu Studio is an operating system based on Linux. It is specifically built to
 Amazon Kindle is a e-reader, which is a device that can access electronic publication files from the Kindle Store. It has many versions like, Kindle Paperweight, Kindle Voyage, Kindle Oasis. Some other popular E-reader devices are Barnes & Noble's Nook, Nook GlowLight, Kobo's Kobo Touch, Kobo Aura, etc.
 
 A sound recording studio is outfitted with multiple sets of gear, most of which are instruments to create sound and a number of recording gear including synthesizers and microphones. MIDI devices are used to interface between musical intruments and computers.
+
+Studied a document regarding E-content development guidelines on an undergraduate level. The document outlines all kinds of requirements for development of aforementioned E-content. Details regarding type of content, clarity of content, development team members, development team expertise, approach to development, etc. are given.
