@@ -1,0 +1,24 @@
+Ardour 5:
+Software for capturing audio from external sources. Complex and advanced. Cannot be opened due to improper audio driver setup
+
+Kid3:
+Allows editing of audio file tags (name of artist, album, etc.) Simple and friendly interface.
+
+QJackCtl:
+JACK Audio Connection Kit. Captures sound from an external sound input device. Simple to use, with limited options.
+
+Patchage:
+Used to connect and configure connection of multiple audio and MIDI devices. Has a simple GUI. Not complicated.
+
+Gladish:
+LADI Session Handler. Combination of audio capturing and connection configuration features. Is awaiting removal due to outdated dependencies.
+
+Audacity:
+Offers simple media capturing tool but highly advanced digital audio manipulation. Audio on multiple channels can be manipulated and their properties adjusted at wave level.
+
+Brasero:
+It is a CD creation tool. It can create audio, data and video CD. Can copy one disc to another. It can also burn CD images onto a disc.
+
+dgedit:
+Simple software to manipulate audio from drum kits from Drum Gizmo.
+
